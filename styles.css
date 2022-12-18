@@ -1,5 +1,4 @@
-
-body main{
+body main {
     border: 1px solid black;
     display: flex;
     flex-wrap: wrap;
@@ -7,28 +6,28 @@ body main{
     min-height: 600px;
 }
 
-.card{
+.card {
     border: 1px solid black;
     display: flex;
     flex-direction: column;
     width: 400px;
 }
 
-.card-img{
+.card-img {
     display: block;
     object-fit: cover;
     width: 100%;
     height: 100%;
 }
 
-.red{
+.red {
     background-color: rgb(231, 176, 187);
 }
 
-.blue{
+.blue {
     background-color: rgb(155, 223, 223);
 }
 
-.green{
+.green {
     background-color: rgb(182, 219, 145);
 }
