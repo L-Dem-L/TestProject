@@ -4,7 +4,7 @@ body main{
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    height: 600px;
+    min-height: 600px;
 }
 
 .card{
